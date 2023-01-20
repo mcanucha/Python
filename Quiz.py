@@ -1,7 +1,7 @@
-Greet and welcome the user
-Ask for user input and store as variable
-Write the question
-Write the answer
+#Greet and welcome the user
+#Ask for user input and store as variable
+#Write the question
+#Write the answer
 
 
 
